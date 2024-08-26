@@ -1,0 +1,125 @@
+{
+  "version": 1,
+  "locale": "en_US",
+  "platform": "4.3.2",
+  "metadata": {
+    "appmode": "quarto-static",
+    "primary_rmd": "shiny-calendar-slides.qmd",
+    "primary_html": null,
+    "content_category": null,
+    "has_parameters": false
+  },
+  "quarto": {
+    "version": "1.5.54",
+    "engines": ["markdown"]
+  },
+  "packages": null,
+  "files": {
+    "_extensions/jthomasmock/positslides/_extension.yml": {
+      "checksum": "da5ffc2fa2382c0bdf5511076279a5ee"
+    },
+    "_extensions/jthomasmock/positslides/assets/backgrounds/30-70-dark.png": {
+      "checksum": "ac4ceff0505cd41762a367c124e1975f"
+    },
+    "_extensions/jthomasmock/positslides/assets/backgrounds/30-70-dark.svg": {
+      "checksum": "4537403583ca7f9b99fcf0733a2ea7d5"
+    },
+    "_extensions/jthomasmock/positslides/assets/backgrounds/30-70-light.png": {
+      "checksum": "ecd181ca83b9f955a280ee9f164c55d0"
+    },
+    "_extensions/jthomasmock/positslides/assets/backgrounds/30-70-light.svg": {
+      "checksum": "510e9c683a1b3e733b070f9118f7dc15"
+    },
+    "_extensions/jthomasmock/positslides/assets/backgrounds/dark-section-2.png": {
+      "checksum": "0b51dbd241e01f9584ea57d51f0bcfc2"
+    },
+    "_extensions/jthomasmock/positslides/assets/backgrounds/dark-section-3.png": {
+      "checksum": "f4efa05149ab36899e90cc3a934ec307"
+    },
+    "_extensions/jthomasmock/positslides/assets/backgrounds/dark-section.png": {
+      "checksum": "539518aa18c640d82562c4ff191663f9"
+    },
+    "_extensions/jthomasmock/positslides/assets/backgrounds/divider-dark.svg": {
+      "checksum": "875263119fbe42f139ff2b649ec9f61a"
+    },
+    "_extensions/jthomasmock/positslides/assets/backgrounds/divider-light.svg": {
+      "checksum": "8da03145c6ae1c9f27df527bb2ae2bf5"
+    },
+    "_extensions/jthomasmock/positslides/assets/backgrounds/sample-title-slide-option-1.png": {
+      "checksum": "420c17eabd9e101d0b1d49beabab85d1"
+    },
+    "_extensions/jthomasmock/positslides/assets/backgrounds/sample-title-slide-option-2.png": {
+      "checksum": "e2f69fa84d8545c967f43822088b3df1"
+    },
+    "_extensions/jthomasmock/positslides/assets/backgrounds/sample-title-slide-option-3.png": {
+      "checksum": "f2156a35d7679c5580e8617a596a7d6b"
+    },
+    "_extensions/jthomasmock/positslides/assets/backgrounds/sample-title-slide-option-4.png": {
+      "checksum": "8301e684abcb995c6ff0355e5dbec46c"
+    },
+    "_extensions/jthomasmock/positslides/assets/backgrounds/three-box.png": {
+      "checksum": "d7427144d6eebd608fd8eba14bd4b8a8"
+    },
+    "_extensions/jthomasmock/positslides/assets/backgrounds/title-dark.svg": {
+      "checksum": "1e2e2fb44805e79882d9d1b60715a4c6"
+    },
+    "_extensions/jthomasmock/positslides/assets/backgrounds/title-light.svg": {
+      "checksum": "5215a4662fd392163758bfa916a0b8f9"
+    },
+    "_extensions/jthomasmock/positslides/assets/backgrounds/title-med.svg": {
+      "checksum": "404dd5ee99271c94abbace356626f260"
+    },
+    "_extensions/jthomasmock/positslides/assets/backgrounds/title-vert.svg": {
+      "checksum": "b499854cba0aa869b052724f22282e5c"
+    },
+    "_extensions/jthomasmock/positslides/assets/backgrounds/toc-dark.png": {
+      "checksum": "ada20b549b6b7b61ab8ad0421e5fff9b"
+    },
+    "_extensions/jthomasmock/positslides/assets/backgrounds/toc-light.png": {
+      "checksum": "9f2a386f642864e830b72d9c905e9509"
+    },
+    "_extensions/jthomasmock/positslides/custom.scss": {
+      "checksum": "5e2f29afdc68d62ab45ec1ea78c4e904"
+    },
+    "_extensions/jthomasmock/positslides/logo.svg": {
+      "checksum": "f1d25d1201fae034318d89885d4b57ae"
+    },
+    "_extensions/jthomasmock/positslides/posit-logo-fullcolor-TM.svg": {
+      "checksum": "f66a0f3a87fe18fb4d2ea2c0e9715eea"
+    },
+    "_extensions/jthomasmock/positslides/posit-logo-reverse-TM.svg": {
+      "checksum": "1083c0e377812969f3925b345ffa96f7"
+    },
+    "_extensions/jthomasmock/positslides/posit-logo-white-TM.svg": {
+      "checksum": "e3a4e66c86e6071fe7e86508ce035c6c"
+    },
+    "_quarto.yml": {
+      "checksum": "20285894489088a99a52c38908cdba15"
+    },
+    "images/calendar.png": {
+      "checksum": "702e91ce69f722fa41845ec3c13e72c5"
+    },
+    "images/pins.png": {
+      "checksum": "3ae3771b9622ff752c449506d5fc3b6c"
+    },
+    "images/reactivity.gif": {
+      "checksum": "64fc4fa05929518b20c14b19c2bffbb1"
+    },
+    "images/schedule.gif": {
+      "checksum": "6316e8256e6fb7292adad53650f8181d"
+    },
+    "images/shiny.png": {
+      "checksum": "31084327f6911715c87e21a1160721cf"
+    },
+    "images/workflow.png": {
+      "checksum": "5f4a73480a62058cc8f62ecf659354c2"
+    },
+    "README.md": {
+      "checksum": "a884c3790e1f1b524adb59feee34ad63"
+    },
+    "shiny-calendar-slides.qmd": {
+      "checksum": "17b09b3e8a8f0b1e97496c10d38dd01c"
+    }
+  },
+  "users": null
+}
